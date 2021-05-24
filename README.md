@@ -1,3 +1,6 @@
+MPCI TD06
+groupe: CHIBOUT CLAUDE
+
 # Explication du programme:
 Alors nous avons ici un programme qui nous permet de générer des terrains de manière 'aléatoire'
 Et d'y positionner un personnage que nous allons pouvoir 
