@@ -8,7 +8,7 @@
 # faire bouger à l'aide des flêches directionnelles du clavier.
 # Le personnage ne peux pas apparaitre sur de l'eau et ne peut pas y aller.
 # De sauvegarder ces terrains et de les charger à notre guise.
-# Les case d'eau sont représenté en bleu et les case d'herbe en gris
+# Les case d'eau sont représenté en bleu et les case de terre en gris
 # 
 # clique sur le terrain créer le personnage si le clique n'est pas sur une case d'eau
 # Bouton 'Génerer map': génère un nouveau terrain
